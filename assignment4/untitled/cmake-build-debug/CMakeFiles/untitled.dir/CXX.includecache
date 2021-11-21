@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/grammarAssignmentUncomplete/untitled/TranslationDictionary.h
+string
+-
+vector
+-
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/grammarAssignmentUncomplete/untitled/test.cpp
+iostream
+-
+TranslationDictionary.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/grammarAssignmentUncomplete/untitled/TranslationDictionary.h
+stdlib.h
+-
+

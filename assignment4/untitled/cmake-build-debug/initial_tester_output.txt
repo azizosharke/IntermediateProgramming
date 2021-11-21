@@ -1,0 +1,7 @@
+there was an entry with no /
+translist trans of soulier is shoe
+translist trans of jupe is skirt
+no translist trans of chien
+translist2 trans of chien is dog
+translist2 trans of oiseau is bird
+no translist2 trans of soulier
