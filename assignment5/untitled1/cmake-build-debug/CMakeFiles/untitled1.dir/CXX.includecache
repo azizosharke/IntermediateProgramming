@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/grammarAssignmentUncomplete/untitled1/Rule.cpp
+Rule.h
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/grammarAssignmentUncomplete/untitled1/Rule.h
+iostream
+-
+
+/cygdrive/c/Users/Abdelaziz Abushark/Desktop/grammarAssignmentUncomplete/untitled1/Rule.h
+string
+-
+vector
+-
+
